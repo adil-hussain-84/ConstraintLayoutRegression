@@ -1,0 +1,12 @@
+# General folders and files
+/.gradle
+/projectFilesBackup*
+/local.properties
+
+# JetBrains folders and files
+.idea
+*.iml
+
+# Build folders
+/build
+/app/build
