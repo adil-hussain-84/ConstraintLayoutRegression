@@ -15,3 +15,5 @@ With version `2.0.0-beta4` of the ConstraintLayout library, the layout is render
 However, with versions `2.0.0-beta5` and `2.0.0-beta6` of the ConstraintLayout library, the layout is rendered as follows:
 
 <img src="screenshots/ScreenshotBeta5.png" width="60%" alt="Screenshot with version 2.0.0-beta5 of the ConstraintLayout library">
+
+**Edit:** See [here](https://issuetracker.google.com/issues/158232458) for the bug report in IssueTracker and the suggested workaround.
